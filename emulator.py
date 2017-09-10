@@ -10,7 +10,7 @@ A = 2
 C = 3
 B = 4
 Y = 5
-Print ('y+c')
+Print ('y+c') //*server error code
 If.dlc.extract.root.run = server.full.transferserver = false
 Or
 If.dlc.extract.root.run.play.error = true
